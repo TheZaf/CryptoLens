@@ -85,3 +85,18 @@ This project focuses on:
 
 ---
 
+---
+
+## 📸 Screenshots
+
+### 🏠 Homepage
+
+![Homepage](./Preview/Screenshot%20from%202026-08-10%2023-25-53.png)
+
+### 🪙 Coin Detail Page
+
+![Coin Detail Page](./Preview/Screenshot%20from%202026-08-10%2023-26-06.png)
+
+### 🔐 Signup Page
+
+![Signup Page](./Preview/Screenshot%20from%202026-08-10%2023-26-22.png)
